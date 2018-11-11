@@ -1,1 +1,3 @@
 # Weave-Map-Metric
+
+This project establishes a metric function to compare thread density weave maps obtained from painting canvases. Establishing the degree of similarity between two canvases allows us to conclude whether the source of the canvases is the same or not, which has important implications in the study of paintings. The ongoing portion of this project aims to incorporate information about the angle maps in the metric developed. The file "Weave Maps Distance Function" contains the finished function to compare weave maps based on the thread density. The remaining mathematica files contain ongoing work that aim to generalize the existing function. The weaveMap#.m files contain the testing weave maps necessary to run the mathematica files.
